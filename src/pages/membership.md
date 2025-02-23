@@ -12,55 +12,58 @@ permalink: /membership/index.html
 
 2024 Beechwood Swim Club Board of Directors
 
-* Josh Colvin – President
-* Barb Erardi – Vice President
-* Stephanie Bogenschutz – Treasurer
-* John Piccirillo – Secretary
+* Stephanie Bogenschutz Josh Colvin – President
+* John Piccirillo – Vice President
+* Eric Mooney – Treasurer
+* Laurie Baurer – Secretary
 * Cheryl Ralph – Director
-* Laurie Baurer – Director
-* Eric Mooney – Director
+* Stephanie Eby – Director
+* Josh Colvin – Director
 
 <p style="font-weight: bold; text-decoration: underline;">News from the Board of Directors</p>
-<p>It may be hard to imagine at this point, but the swim season officially begins in 100 days on Saturday, May 25.   We are very excited for the upcoming swim season and excited to share the following information with Beechwood’s members.</p>
+<p>Summer is just around the corner and we are starting our pre-season work. We cannot wait for the 2025 pool season to get here!</p>
  
-<p>The Board of Directors would like to welcome our newest Board Members: Laurie Bauer, Eric Mooney, and John Piccirillo.  We are looking forward to working with Laurie, Eric, and John to ensure that Beechwood Swim Club continues to be a fun, safe, and family friendly experience for its members for years to come.</p>
+<p>The Board of Directors would like to welcome our newest Board Member: Stephanie Eby. Stephanie has been a life long member and is so excited to serve in her role on the board. We would also like to thank Barb Erardii for all 11 years on the board. We appreciate all she has done for us.</p>
+
+<p>Last year the pool had significant unexpected repairs to our pool pumps. This forced us to have to close for a few days.  We are thankful to the surrounding clubs for welcoming our members to their clubs without hesitation. We appreciate everyone’s flexibility and understanding during this time.</p>
+
+<p>Over the past several years, we have made significant investments to maintain the pool, deck, and facilities.  For 2025, the Board has committed to continuing to make improvements to the Club.  Our main focus is the pool and the pump room.  We will continue to make investments that will help our pool last for years to come.  You may have heard of other pools starting to see issues with their pool and older equipment.  We have taken pride in our proactive approach to prevent major issues. The pump breaking last year was the first major repair we have encountered in many years. We feel confident with the proactive repairs we have made over the winter season, that we are set for a successful summer.</p>
  
-<p>Last year saw some significant changes for members with the change to the Member Splash software system.  While there was a learning curve with the system as we progressed through the season, the overall benefits of the new system were noticed by all.  We will continue to use Member Splash as our membership software for the 2024 season.  The link to Beechwood’s Member Splash site is <a href="https://beechwoodswimclub.membersplash.com/">https://beechwoodswimclub.membersplash.com</a></p>
- 
-<p>Over the past several years, we have made significant investments to maintain the pool, deck, and facilities.  For 2024, the Board has committed to the following improvements to the Swim Club.</p>
+<p style="font-weight: bold;">2025 Membership Dues</p>
 
 <ul>
-    <li>First, additional lounge chairs will be purchased for the pool deck.  Demand was high last season for lounge chairs on weekends, so additional chairs should help to lessen the demand as pool attendance continues to increase.</li>
-    <li>Second, a pickleball court will be installed in the play area next to the basketball courts.  We are excited to be able to bring pickleball to the club for our members.  There will be additional information shared on the pickleball courts as we get closer to the pool season.</li>
-</ul>
- 
-<p style="font-weight: bold;">2024 Membership Dues</p>
-<p>Due to increasing costs in staffing, chemicals, and other items necessary to keep the pool operational, the Board voted to increase membership dues for the first time since 2018.  While membership dues have increased, the Board worked to keep annual membership dues affordable and among the lowest in the area while also balancing the costs to operate the club successfully and plan for future renovations.  The 2024 dues are as follows:</p>
-
-<ul>
-    <li><p style="font-weight: bold;">Family - $524.70 ($495 dues + $29.70 KY sales tax)<p>
+    <li>
+        <p style="font-weight: bold;">Family - $530</p>
         <ul>
-            <li>Option 1: Owner, spouse & dependent children who are 25 years old or younger and <b>residing in the home</b>.</li>
+            <li>Option 1: Owner, spouse & dependent children who are 25 years old or younger and residing in the home.</li>
             <li>Option 2: Owner & two (2) permanent guest passes.</li>
         </ul>
     </li>
-
-    <li><p><b>Senior ‐ $419.76</b> ($396 dues + $23.76 KY sales tax)</p>
+    <li>
+        <p><b>Senior ‐ $425</p>
         <ul>
             <li>At least one (1) member must be sixty-five (65) or older.</li>
         </ul>
     </li>
-
-    <li><p><b>Single ‐ $367.29</b> ($346.50 dues + $20.79 KY sales tax)</p></li>
-    <li><p><b>Babysitter ‐ $106</b> ($100 + $6 KY sales tax)</p>
+    <li>
+        <p><b>Single ‐ $375</b></p>
+    </li>
+    <li>
+        <p><b>Family Rental Membership ‐ $742</b></p>
+    </li>
+    <li>
+        <p><b>Single Rental Membership ‐ $530</b></p>
+    </li>
+    <li>
+        <p><b>Babysitter ‐ $110</p>
         <ul>
-            <li>Up to two (2) designated babysitters can be listed on the account for a charge of $100.00 each plus 6% sales tax. The babysitter pass can only be used when one (1) or more of the dependent children are present and <i><u>neither parent is present</u></i>.</li>
+            <li>Up to two (2) designated babysitters can be listed on the account for a charge of $100.00 each plus 6% sales tax. The babysitter pass can only be used when one (1) or more of the dependent children are present and neither parent is present.</li>
         </ul>
     </li>
 </ul>
  
 <p style="font-weight: bold; text-decoration: underline;">Payment Methods</p>
-<p>We will continue to not accept checks via mail and will be returned to the sender. However, in recognizing that some of our members will still desire to pay by check rather than online, we are providing the opportunity to pay with checks on four dates below. A board member will be present at the designated locations on the dates below for members wishing to pay by check. Otherwise, please utilize the online payment function in <i>Member Splash</i>.</p>
+<p>We will continue to not accept checks via mail. However, in recognizing that some of our members will still desire to pay by check rather than online, we are providing the opportunity to bring checks to the club on two (2) dates. A board member will be present at the Ft. Mitchell City Building on March 5th, from 4:30-6 p.m. and on March 12th, from 4:30-6 p.m. We will also be at the Swim Club accepting checks April 8th 5:30-7 p.m. and April 15th 5:30-7 p.m. Checks will not be taken after April 15th. Please utilize the online payment function in your Member Splash account.</p>
 
 <ul>
     <li>March 12th from 5:00 – 6:00pm at the Ft Mitchell City Building.</li>
@@ -70,65 +73,77 @@ permalink: /membership/index.html
 </ul>
 
 <p style="font-weight: bold; text-decoration: underline;">Payment Deadlines</p>
-<p>The deadlines for payment of 2024 dues are as follows:</p>
+<p>The deadlines for payment of 2025 dues are as follows:</p>
 
 <ul>
-    <li><p style="font-weight: bold; text-decoration: underline;">March 15th, 2024</p>
+    <li>
+        <p style="font-weight: bold; text-decoration: underline;">March 15th, 2025</p>
         <ul>
-            <li>Members who pay <b>on or before this date</b> will receive <b>five (5) free guest passes</b> added to their account.</li>
+            <li>Members who pay on or before this date will receive five (5) free guest passes added to their account.</li>
         </ul>
     </li>
-    <li><p style="font-weight: bold; text-decoration: underline;">April 15th, 2024</p>
+    <li>
+        <p style="font-weight: bold; text-decoration: underline;">April 15th, 2025</p>
         <ul>
-            <li>Members <b>must pay on or before this date</b> to avoid being a assessed a <b><i>late fee</i></b>.</li>
+            <li>Members must pay on or before this date to avoid being assessed a late fee.</li>
         </ul>
     </li>
-    <li><b><u>For payments after April 15th, 2024, there will be a late fee assessed of $150.00</u></b>. For accounts subject to a late fee, the account will not be active until the late fee has been paid.</li>
+    <li>
+        <p>For payments after April 15th, 2025, there will be a late fee assessed of $150.00. For accounts subject to a late fee, the account will not be active until the late fee has been paid.</p>
+    </li>
 </ul>
  
 <p style="font-weight: bold; text-decoration: underline;">Inactive Membership Option</p>
-<p>Due to ongoing spike in membership interest, it is important that we know how many members plan to be inactive in the 2024 season.</p>
+<p>Due to the ongoing spike in membership interest, it is important that we know how many members plan to be inactive in the 2025 season.</p>
 
 <ul>
-    <li>Members who wish to be inactive must notify the board in writing by May 15th, 2024. The inactive fee will be $341 ($322 + 6% sales tax).</li>
-    <li>The inactive fee must be paid by June 15th, 2024, to keep the account in good standing.</li>
+    <li>Members who wish to be inactive must notify the board in writing by May 15th, 2025. The inactive fee will be $350.</li>
+    <li>The inactive fee must be paid by June 15th, 2025, to keep the account in good standing.</li>
     <li>Failure to notify the board of an intent to be inactive will subject you to the full membership dues for the season.</li>
-    <li>Failure to pay the inactive fee by June 15th, 2024, will result in the club purchasing your bond from you at the original bond value.</li>
+    <li>Failure to pay the inactive fee by June 15th, 2025, will result in the club purchasing your bond from you at the original bond value. There is no exception to this.</li>
 </ul>
  
 <p style="font-weight: bold; text-decoration: underline;">New Members – Bond Transfers</p>
-<p>For our new members who have purchased bonds since last season, your bond must be formally transferred before your account will be active. If you need to transfer bonds, Stephanie Bogenschutz will be available to meet you at the pool on the following days:</p>
+<p>For our new members who have purchased bonds since last season, your bond must be formally transferred before your account will be active. If you need to transfer bonds, Eric Mooney will be available to meet you at the pool on the following days:</p>
 
 <ul>
-    <li>April 12th from 5:00 – 6:30pm at Beechwood Swim Club.</li>
-    <li>April 15th from 5:00 – 6:30pm at Beechwood Swim Club.</li>
-    <li>May 15th from 5:00 – 6:30pm at Beechwood Swim Club.</li>
+    <li>May 7th from 5–6:30pm at Beechwood Swim Club.</li>
+    <li>May 14th from 5–6:30pm at Beechwood Swim Club.</li>
 </ul>
  
-<p style="font-weight: bold; text-decoration: underline;">Member Communication Throughout the Season
-As we head into the 2024 season, we are continuing our commitment to provide the most widespread information to our members as possible, so that everyone feels up to speed on what is happening. Issues in the past with emails have led us to try to post updates across multiple platforms including email, our pool website, and our pool Facebook page. Major items, such as our bylaws and this year's member letter, will always be posted to our website. Please regularly check your email, our website, and our Facebook page so that you can stay informed of all events happening at the pool.</p> 
+<p style="font-weight: bold; text-decoration: underline;">Member Communication Throughout the Season</p>
+<p>As we head into the 2025 season, we are continuing our commitment to provide the most widespread information to our members as possible, so that everyone feels up to speed on what is happening. Issues in the past with emails have led us to try to post updates across multiple platforms including email, our pool website, and our pool Facebook page. Major items, such as our bylaws and this year’s member letter, will always be posted to our website. Please regularly check your email, our website, and our Facebook page so that you can stay informed of all events happening at the pool.</p> 
  
-<p style="font-weight: bold; text-decoration: underline;"></p>Important Dates/Events at Beechwood Swim Club
+<p style="font-weight: bold; text-decoration: underline;">Important Dates/Events at Beechwood Swim Club</p>
 <ul>
-    <li>Family Day and Annual Bondholders Meeting – July 21st.</li>
+    <li>May 24th Opening Day 11 a.m.</li>
+    <li>Family Day and Annual Bondholders Meeting – July 20th.</li>
     <li>
-        <p>Beechwood is hosting the 2024 Northern Kentucky Swim Championship Meet – July 15th & 16th.</p>
+        <p>Beechwood is hosting the 2025 Northern Kentucky Dive Championship Meet – July 22th.</p>
         <ul>
-            <li>Pool will be closing at 6pm on July 14th and will remain closed on July 15th & 16th.</li>
-            <li>During the days the pool is closed for the swim meet, members will be allowed to go to other NKSL pools (excluding Florence Aquatic Center).</li>
+            <li>During the days the pool is closed for the swim meet, members will be allowed to go to other NKSL pools.</li>
             <li>Additional information will be shared as we get closer to the pool season.</li>
         </ul>
     </li>
-    <li>Two Movie Nights – Dates TBD.</li>
-    <li>Ladies Nights – Dates TBD.</li>
+    <li>Movie Nights Sat 6/28, 8/16 Movie starts at dusk</li>
+    <li>Adult Night: July 26th 6-10 p.m.</li>
+    <li>Water Walking: Wednesday June 4th through August 27th 6-6:30 p.m.</li>
+    <li>Bunco: Monday, June 2nd through August 25th 6:30-7:30 p.m.</li>
+    <li>Euchre: Sunday, June 8th, July 13th, September 10th 5-7 p.m.</li>
+    <li>BINGO: Friday, July 13th, July 18th, August 15th 6:30-7:30 p.m.</li>
+    <li>Trivia: Wednesday, June 30th, July 19th, July 23rd, August 1st 6:30-7:30 p.m.</li>
 </ul>
  
+<p>Job Fair</p>
+<p>We had an amazing turnout at our first job fair last week. Our next job fair will be held at the Kenton County Erlanger Library on March 9th 1:30-3:30 p.m. Please see the flyer below for details. We are in need of all positions!</p>
 <p style="font-weight: bold; text-decoration: underline;">August Lifeguarding Help Needed</p>
-<p>Due to our guards and managers going back to school in mid-August last year, the pool could not open until 4pm Monday through Friday for the last two weeks of the swim season.  This was an extremely unfortunate situation and not a decision that the Board took lightly.</p>
+<p>A special THANK YOU to our members Jeanne Wissman, Kristi Snyder, and Barb Erardii for all their help lifeguarding and managing so we could keep our pool open after school started back. We were the only club that did not have to reduce their hours due to their availability. We are so grateful!</p>
  
-<p>To keep the pool open once school starts back in August this year, we are asking adult members to consider getting their Lifeguard certification.  Members will need to commit to 2 shifts (12-4) per week for 2 weeks.  We would need 2 people per day (Monday – Friday) starting mid-August.  We are looking for a maximum of 10 volunteers.  Lifeguarding certification class information will be sent out separately to those interested.</p>
+<p>We will be asking for the same help this coming year, so we do not have to reduce our hours.</p>
  
-<p>Please know that there are additional trainings on our emergency protocols at Beechwood Swim Club.  Volunteers must attend those trainings as well.  The pool will reimburse the volunteers for their certification and compensate you for your time.</p>
+<p>To keep the pool open once  school starts back in August this year, we are asking adult members to consider getting their Lifeguard certification. Members will need to commit to 2 shifts (12-4 p.m.) per week for 2 weeks. We would need 2 people per day (Monday – Friday) starting mid-August. We are looking for a maximum of 5 volunteers.  We will hold a lifeguard certification class at the pool for those who are volunteering.</p>
+
+<p>Please know that there is additional training on our emergency protocols at Beechwood Swim Club. Volunteers must attend those training sessions as well.</p>
  
 <p>If you are interested, please contact us at <a href="mailto:beechwoodswimclubky@gmail.com">beechwoodswimclubky@gmail.com</a></p>
  
