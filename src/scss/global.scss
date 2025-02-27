@@ -2,7 +2,7 @@
 @use 'config';
 
 // Pull in the stalfos lib
-@use '../../node_modules/stalfos/stalfos.scss';
+@use '../../node_modules/stalfos/stalfos.scss' as *;
 
 // Local mixins
 @use 'mixins/dark-mode';
