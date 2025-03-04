@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Pool Hours
-date: 2021-03-07T18:24:13.187Z
+date: 2025-03-03T14:47:47.006Z
 icon: fa fa-time
 ---
-We are open **11 am-9 pm** every day **weather permitting**.
+We are open **11 a.m.-9 p.m.** every day **weather permitting**.

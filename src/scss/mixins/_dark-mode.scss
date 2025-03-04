@@ -7,7 +7,7 @@
 @mixin dark-mode() {
   @media (prefers-color-scheme: dark) {
     :root {
-      --color-mode: 'light';
+      --color-mode: 'dark';
     }
 
     :root:not([data-user-color-scheme]) {

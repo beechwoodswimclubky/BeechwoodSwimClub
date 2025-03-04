@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Swim Team
-date: 2021-03-07T18:47:15.867Z
+date: 2025-03-03T14:49:33.077Z
 icon: fa fa-team
 ---
 All swim team info is on the swim team website.

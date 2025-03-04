@@ -1,8 +1,7 @@
 ---
-layout: layouts/price.njk
+layout: layouts/post.njk
 title: Age U4
-date: 2021-03-21T17:14:50.117Z
-icon: FREE
+date: 2025-03-02T22:42:59.196Z
 cost: FREE
 ---
 * Baby pool
