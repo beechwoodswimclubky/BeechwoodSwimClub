@@ -63,7 +63,7 @@ permalink: /membership/index.html
 </ul>
  
 <p style="font-weight: bold; text-decoration: underline;">Payment Methods</p>
-<p>We will continue to not accept checks via mail. However, in recognizing that some of our members will still desire to pay by check rather than online, we are providing the opportunity to bring checks to the club on two (2) dates. A board member will be present at the Ft. Mitchell City Building on March 5th, from 4:30-6 p.m. and on March 12th, from 4:30-6 p.m. We will also be at the Swim Club accepting checks April 8th 5:30-7 p.m. and April 15th 5:30-7 p.m. Checks will not be taken after April 15th. Please utilize the online payment function in your Member Splash account.</p>
+<p>We will continue to not accept checks via mail. However, in recognizing that some of our members will still desire to pay by check rather than online, we are providing the opportunity to bring checks to the club on two (2) dates. A board member will be present at the Ft. Mitchell City Building on March 5th, from 4:30-6 p.m. and on March 12th, from 4:30-6 p.m. We will also be at the Swim Club accepting checks April XX 5:30-7 p.m. and April XX 5:30-7 p.m. Checks will not be taken after April XX. Please utilize the online payment function in your Member Splash account.</p>
 
 <p style="font-weight: bold;">Making payments through Member Splash will be available starting on February 22nd.</p>
 
@@ -102,8 +102,10 @@ permalink: /membership/index.html
 <p>For our new members who have purchased bonds since last season, your bond must be formally transferred before your account will be active. If you need to transfer bonds, Eric Mooney will be available to meet you at the pool on the following days:</p>
 
 <ul>
-    <li>May 7th from 5–6:30 p.m. at Beechwood Swim Club.</li>
-    <li>May 14th from 5–6:30 p.m. at Beechwood Swim Club.</li>
+    <li>April XX</li>
+    <li>April XX</li>
+    <li>May XX</li>
+    <li>May XX</li>
 </ul>
  
 <p style="font-weight: bold; text-decoration: underline;">Member Communication Throughout the Season</p>
@@ -136,9 +138,9 @@ permalink: /membership/index.html
  
 <p>We will be asking for the same help this coming year, so we do not have to reduce our hours.</p>
  
-<p>To keep the pool open once  school starts back in August this year, we are asking adult members to consider getting their Lifeguard certification. Members will need to commit to 2 shifts (12-4 p.m.) per week for 2 weeks. We would need 2 people per day (Monday – Friday) starting mid-August. We are looking for a maximum of 5 volunteers.  We will hold a lifeguard certification class at the pool for those who are volunteering.</p>
+<p>To keep the pool open once  school starts back in August this year, we are asking adult members to consider getting their Lifeguard certification. Members will need to commit to 2 shifts (12-4 p.m.) per week for 2 weeks.  We would need 2 people per day (Monday – Friday) starting mid-August. We are looking for a maximum of 10 volunteers. Lifeguarding classes are taught through the American Red Cross.</p>
 
-<p>Please know that there is additional training on our emergency protocols at Beechwood Swim Club. Volunteers must attend those training sessions as well.</p>
+<p>Please know that there is additional training on our emergency protocols at Beechwood Swim Club. Volunteers must attend those training sessions as well. The pool will reimburse the volunteers for their certification.</p>
  
 <p>If you are interested, please contact us at <a href="mailto:beechwoodswimclubky@gmail.com">beechwoodswimclubky@gmail.com</a></p>
  
