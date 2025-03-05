@@ -84,7 +84,7 @@ permalink: /membership/index.html
         </ul>
     </li>
     <li>
-        <p>For payments after April 15th, 2025, there will be a late fee assessed of $150.00. For accounts subject to a late fee, the account will not be active until the late fee has been paid.</p>
+        <p><strong>For payments after April 15th, 2025, there will be a late fee assessed of $150.00</strong>. For accounts subject to a late fee, the account will not be active until the late fee has been paid.</p>
     </li>
 </ul>
  
