@@ -85,7 +85,7 @@ The most convenient way to bring any issues to the board of directors is to send
 </div>
 
 <div class="tab">
-<input type="radio" id="faq10" name="rd"><label class="tab-label" for="faq10">How do I reserve time slots during the 2021 season?</label>
-<div class="tab-content">At this time, the board does not know if weekend reservations will be required for 2021.  If necessary, the pool will implement the same reservation system that was used in 2020.  The link to the weekend reservation site is . Similar to last year, the reservation window for the following weekend will open each Monday at midnight. Please see the step-by-step instructions in the following link.</div>
+<input type="radio" id="faq10" name="rd"><label class="tab-label" for="faq10">How do I reserve time slots during the 2025 season?</label>
+<div class="tab-content">At this time, the board does not know if weekend reservations will be required for 2025. If necessary, the pool will implement the same reservation system that was used in 2020.  The link to the weekend reservation site is . Similar to last year, the reservation window for the following weekend will open each Monday at midnight. Please see the step-by-step instructions in the following link.</div>
 </div>
 </div>
