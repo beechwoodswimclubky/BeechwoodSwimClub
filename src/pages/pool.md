@@ -13,8 +13,6 @@ Beechwood Swim Club offers a safe and relaxing place for families to unwind, enj
 
 <div class="columns">
   <ul class="price">
-    <li class="header">Age U4</li>
-    <li class="grey">FREE</li>
     <li>Baby pool</li>
     <li>Snack Shop</li>
     <li>Large pool</li>
