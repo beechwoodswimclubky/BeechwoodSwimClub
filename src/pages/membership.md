@@ -15,7 +15,7 @@ permalink: /membership/index.html
 * Stephanie Bogenschutz Josh Colvin – President
 * John Piccirillo – Vice President
 * Eric Mooney – Treasurer
-* Laurie Baurer – Secretary
+* Laurie Bauer – Secretary
 * Cheryl Ralph – Director
 * Stephanie Eby – Director
 * Josh Colvin – Director
