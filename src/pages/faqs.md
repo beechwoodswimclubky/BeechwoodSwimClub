@@ -53,7 +53,7 @@ permalink: /membership/faqs/index.html
 
 <div class="tab">
 <input type="radio" id="faq6" name="rd"><label class="tab-label" for="faq6">What is the duration of the club’s season, and when must membership dues be paid for the season?</label>
-<div class="tab-content">Beechwood Swim Club has historically been open from Memorial Day Weekend until Labor Day. Membership dues for the 2021 season are due by April 15th. A $150 late fee will be required for membership dues not paid by April 15th. Membership dues can be paid with credit card in our member portal by logging in here <a href="https://beechwoodswimclub.us18.list-manage.com/track/click?u=d2234782ae340940dd72dad5c&id=5e06c91ee0&e=6186356c6a">https://beechwoodswimclub.com</a>. Dues can be paid by mailing a check to:
+<div class="tab-content">Beechwood Swim Club has historically been open from Memorial Day Weekend until Labor Day. Membership dues for the 2025 season are due by April 15th. A $150 late fee will be required for membership dues not paid by April 15th. Membership dues can be paid with credit card in our member portal by logging in here <a href="https://beechwoodswimclub.us18.list-manage.com/track/click?u=d2234782ae340940dd72dad5c&id=5e06c91ee0&e=6186356c6a">https://beechwoodswimclub.com</a>. Dues can be paid by mailing a check to:
 
 Beechwood Swim Club\
 PO Box 17066\
@@ -72,7 +72,7 @@ Checks for membership dues that are mailed must be postmarked by April 15th to a
 <input type="radio" id="faq9" name="rd"><label class="tab-label" for="faq9">As a member, who can I contact with issues or suggestions?</label>
 <div class="tab-content">We are a member-owned swim club and, thus, the satisfaction of our members is extremely important. For daily issues, management is available to assist you. The head manager for the 2025 season is Jennifer, who can be contacted through the front office. For broader issues or suggestions regarding swim club policy and operations, the board of directors is here to listen and provide answers. For this season, the board of directors is:
 
-* Stephanie Bogenschutz Josh Colvin – President
+* Stephanie Bogenschutz – President
 * John Piccirillo – Vice President
 * Eric Mooney – Treasurer
 * Laurie Bauer – Secretary
