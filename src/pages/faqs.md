@@ -5,7 +5,7 @@ permalink: /membership/faqs/index.html
 ---
 <div class="tabs">
 <div class="tab">
-<input type="radio" id="faq11" name="rd"><label class="tab-label" for="faq11">How do I Transfer Bonds?</label>
+<input type="radio" id="faq11" name="rd"><label class="tab-label" for="faq11">How do I Sell My Bonds?</label>
 <div class="tab-content">
 <ul>
 <li>Create an account on the <a href="https://beechwoodswimclub.freeforums.net/">Beechwood Swim Bond Marketplace</a>.</li>
@@ -16,12 +16,12 @@ permalink: /membership/faqs/index.html
 </div>
 
 <div class="tab">
-<input type="radio" id="faq12" name="rd"><label class="tab-label" for="faq12">I'm a New Member. How do I Transer Bonds?</label>
+<input type="radio" id="faq12" name="rd"><label class="tab-label" for="faq12">I just purchased New Bonds; Next Steps</label>
 <div class="tab-content">
 <ol>
 <li>Please email the club to verify the person you are buying from is in good standing (<a href="mailto:beecwhoodswimclubky@gmail.com">beecwhoodswimclubky@gmail.com</a>)</li>
 <li>Please email the following information to get added to the pool system: Address, Phone number, All of the name and DOBs on the membership</li>
-<li>We will also need a check for a $50 transfer fee sent to PO Box 10766 Ft Mitchell KY 41017</li>
+<li>A $50 transfer fee will be required at the time transfer.</li>
 <li>Set up time with Treasurer to get Bonds singed over.</li>
 </ol></div>
 </div>
@@ -43,7 +43,7 @@ permalink: /membership/faqs/index.html
 
 <div class="tab">
 <input type="radio" id="faq4" name="rd"><label class="tab-label" for="faq4">What are the annual dues for a bond-holder?</label>
-<div class="tab-content">The annual dues depend on the type of membership the bond-holder chooses for the season. A breakdown of the various memberships and annual dues associated with each can be found here.</div>
+<div class="tab-content">The annual dues depend on the type of membership the bond-holder chooses for the season. Please email Beechwood Swim Club at <a href="mailto:beechwoodswimclubky@gmail.com">beechwoodswimclubky@gmail.com</a> for dues information.</div>
 </div>
 
 <div class="tab">
@@ -53,19 +53,14 @@ permalink: /membership/faqs/index.html
 
 <div class="tab">
 <input type="radio" id="faq6" name="rd"><label class="tab-label" for="faq6">What is the duration of the club’s season, and when must membership dues be paid for the season?</label>
-<div class="tab-content">Beechwood Swim Club has historically been open from Memorial Day Weekend until Labor Day. Membership dues for the 2025 season are due by April 15th. A $150 late fee will be required for membership dues not paid by April 15th. Membership dues can be paid with credit card in our member portal by logging in here <a href="https://beechwoodswimclub.us18.list-manage.com/track/click?u=d2234782ae340940dd72dad5c&id=5e06c91ee0&e=6186356c6a">https://beechwoodswimclub.com</a>. Dues can be paid by mailing a check to:
+<div class="tab-content">Beechwood Swim Club has historically been open from Memorial Day Weekend until Labor Day. Membership dues for the 2025 season are due by April 15th. A $150 late fee will be required for membership dues not paid by April 15th. Membership dues can be paid through the <a href="https://beechwoodswimclub.membersplash.com/">Member's Splash account</a>.
 
-Beechwood Swim Club\
-PO Box 17066\
-Fort Mitchell, Kentucky 41017
-
-Checks for membership dues that are mailed must be postmarked by April 15th to avoid the $50 late fee. Checks postmarked after April 15th must include the aforementioned fee for the member to be in good standing on opening weekend.</div>
-
+Specific dates and times for check dropoff will be included in the member letter and posted on our social media and webpage.</div>
 </div>
 
 <div class="tab">
 <input type="radio" id="faq8" name="rd"><label class="tab-label" for="faq8">Can members bring non-members with them to the swim club?</label>
-<div class="tab-content">Yes, memberships paid in full by March 15th come with five (5) guest passes. After guest passes are used, guests can attend with a member in good-standing for a daily fee. Information regarding guest access to the pool can be found <a href="https://www.beechwoodswimclub.org/pool/">here</a>.</div>
+<div class="tab-content">Yes, members can bring non-members with them to the swim club. Members are responsible for the actions of their guests. Members must be present with all guests who are entering the pool with a paid guest pass or fee. Members do not need to be present with guests using permanent guest passes.</div>
 </div>
 
 <div class="tab">
