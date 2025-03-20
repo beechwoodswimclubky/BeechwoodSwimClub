@@ -23,11 +23,11 @@ permalink: /membership/index.html
 <p style="font-weight: bold; text-decoration: underline;">News from the Board of Directors</p>
 <p>Summer is just around the corner and we are starting our pre-season work. We cannot wait for the 2025 pool season to get here!</p>
  
-<p>The Board of Directors would like to welcome our newest Board Member: Stephanie Eby. Stephanie has been a life long member and is so excited to serve in her role on the board. We would also like to thank Barb Erardii for all 11 years on the board. We appreciate all she has done for us.</p>
+<p>The Board of Directors would like to welcome our newest Board Member: Stephanie Eby. Stephanie has been a life long member and is so excited to serve in her role on the board. We would also like to thank Barb Erardii for all 11 years on the board.  We appreciate all she has done for us.</p>
 
-<p>Last year the pool had significant unexpected repairs to our pool pumps. This forced us to have to close for a few days.  We are thankful to the surrounding clubs for welcoming our members to their clubs without hesitation. We appreciate everyone’s flexibility and understanding during this time.</p>
+<p>Last year the pool had significant unexpected repairs to our pool pumps. This forced us to have to close for a few days. We are thankful to the surrounding clubs for welcoming our members to their clubs without hesitation. We appreciate everyone’s flexibility and understanding during this time.</p>
 
-<p>Over the past several years, we have made significant investments to maintain the pool, deck, and facilities.  For 2025, the Board has committed to continuing to make improvements to the Club.  Our main focus is the pool and the pump room.  We will continue to make investments that will help our pool last for years to come.  You may have heard of other pools starting to see issues with their pool and older equipment.  We have taken pride in our proactive approach to prevent major issues. The pump breaking last year was the first major repair we have encountered in many years. We feel confident with the proactive repairs we have made over the winter season, that we are set for a successful summer.</p>
+<p>Over the past several years, we have made significant investments to maintain the pool, deck, and facilities. For 2025, the Board has committed to continuing to make improvements to the Club.  Our main focus is the pool and the pump room. We will continue to make investments that will help our pool last for years to come. You may have heard of other pools starting to see issues with their pool and older equipment. We have taken pride in our proactive approach to prevent major issues. The pump breaking last year was the first major repair we have encountered in many years. We feel confident with the proactive repairs we have made over the winter season, that we are set for a successful summer.</p>
  
 <p style="font-weight: bold;">2025 Membership Dues</p>
 <p>The 2025 dues below includes the taxes:</p>
@@ -63,7 +63,7 @@ permalink: /membership/index.html
 </ul>
  
 <p style="font-weight: bold; text-decoration: underline;">Payment Methods</p>
-<p>We will continue to not accept checks via mail. However, in recognizing that some of our members will still desire to pay by check rather than online, we are providing the opportunity to bring checks to the club on two (2) dates. A board member will be present at the Ft. Mitchell City Building on March 5th, from 4:30-6 p.m. and on March 12th, from 4:30-6 p.m. We will also be at the Swim Club accepting checks April XX 5:30-7 p.m. and April XX 5:30-7 p.m. Checks will not be taken after April XX. Please utilize the online payment function in your Member Splash account.</p>
+<p>We will continue to not accept checks via mail. However, in recognizing that some of our members will still desire to pay by check rather than online, we are providing the opportunity to bring checks to the club on two (2) dates. A board member will be present at the Ft. Mitchell City Building on March 5th from 4:30 - 6 p.m. and on March 12th, from 4:30 - 6 p.m.  We will also be at the Swim Club accepting checks April 8th, 5:30 - 7 p.m. and April 15th 5:30 - 7p.m. Checks will not be taken after April 15th. Please utilize the online payment function in your Member Splash account.</p>
 
 <p style="font-weight: bold;">Making payments through Member Splash will be available starting on February 22nd.</p>
 
@@ -102,10 +102,8 @@ permalink: /membership/index.html
 <p>For our new members who have purchased bonds since last season, your bond must be formally transferred before your account will be active. If you need to transfer bonds, Eric Mooney will be available to meet you at the pool on the following days:</p>
 
 <ul>
-    <li>April XX</li>
-    <li>April XX</li>
-    <li>May XX</li>
-    <li>May XX</li>
+    <li>May 7 5:30 - 6:30 p.m.</li>
+    <li>May 14 5:30 - 6:30 p.m.</li>
 </ul>
  
 <p style="font-weight: bold; text-decoration: underline;">Member Communication Throughout the Season</p>
@@ -147,7 +145,7 @@ permalink: /membership/index.html
 <p style="font-weight: bold; text-decoration: underline;">Questions / Comments</p>
 <p>If you have questions or comments, please feel free to contact us by the swim club email at <a href="mailto:beechwoodswimclubky@gmail.com">beechwoodswimclubky@gmail.com</a>. Thank you!</p>
  
-<p>Mark your calendars for Opening Day, Saturday, May 25th. We cannot wait to see you this summer!</p>
+<p>Mark your calendars for Opening Day, Saturday, May 24th 11 a.m. We cannot wait to see you this summer!</p>
  
 <p>Sincerely,<br>
 Beechwood Board of Directors</p>
