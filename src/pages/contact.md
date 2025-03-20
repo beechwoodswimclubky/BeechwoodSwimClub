@@ -9,6 +9,12 @@ permalink: /contact/index.html
 * **Saturday:** 11 a.m. - 9 p.m.
 * **Sunday:** 11 a.m. - 9 p.m.
 
+**Email Address**
+<a href="mailto:beecwhoodswimclubky@gmail.com">beecwhoodswimclubky@gmail.com</a>
+
+**Phone Number**
+<a href="tel:859-331-1644">859-331-1644</a>
+
 **Mailing Address**
 
 Beechwood Swim Club, Inc.\

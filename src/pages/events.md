@@ -13,3 +13,5 @@ permalink: /events/index.html
 * Water Walking: Wednesday June 4th - August 27th 6-6:30 p.m.
 * Family Day and Annual Bondholders Meeting - July 20th
 * Beechwood is hosting the 2025 Northern Kentucky Dive Championship Meet - July 22nd
+* Swim Lessons: June 16th - June 27th
+* Pickleball tournament: June 14th for kids and June 15th for adults 
