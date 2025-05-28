@@ -7,8 +7,8 @@ The Board of Directors first priority is to ensure that Beechwood Swim Club is a
 
 * Direction and orders issued by pool management and/or staff must be followed and adhered to by all members and guests.
 * NO RUNNING on the pool deck.
-* BABY POOL is for infants and non-swimmers only.  If a child swims in the big pool, they are not permitted in the Baby Pool, especially during adult swims.
-* CHILDREN UNDER 11 YEARS of AGE must be accompanied by an adult at all times.
+* BABY POOL is for infants and non-swimmers only. If a child swims in the big pool, they are not permitted in the Baby Pool, especially during adult swims.
+* Children under eleven (11) years of age are not permitted on the swim club grounds unless under the care and supervision of an individual at least fifteen (15) years of age. The eleven (11) years of age limitation does not apply while a child is attending swim lessons or while a child is attending swim team practice.
 * GUESTS must be accompanied by a member upon entry.
 * USE OF ABUSIVE or PROFANE LANGUAGE is prohibited.
 * NO SMOKING: Smoking is prohibited in the pool area.
