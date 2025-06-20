@@ -121,7 +121,7 @@ permalink: /membership/index.html
         </ul>
     </li>
     <li>Movie Nights: Saturday, July 28 & Saturday, August 16. Movie starts at dusk</li>
-    <li>Adult Night: July 26th 6-10 p.m.</li>
+    <li>Adult Night: July 18th 6 - 10 p.m.</li>
     <li>Water Walking: Wednesday June 4th - August 27th 6-6:30 p.m.</li>
     <li>Bunco: Monday, June 2nd through August 25th 6:30-7:30 p.m.</li>
     <li>Euchre: Sunday, June 8th, July 13th, September 10th 5-7 p.m.</li>
