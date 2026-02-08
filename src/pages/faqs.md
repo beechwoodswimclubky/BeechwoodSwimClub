@@ -53,7 +53,7 @@ permalink: /membership/faqs/index.html
 
 <div class="tab">
 <input type="radio" id="faq6" name="rd"><label class="tab-label" for="faq6">What is the duration of the club’s season, and when must membership dues be paid for the season?</label>
-<div class="tab-content">Beechwood Swim Club has historically been open from Memorial Day Weekend until Labor Day. Membership dues for the 2025 season are due by April 15th. A $150 late fee will be required for membership dues not paid by April 15th. Membership dues can be paid through the <a href="https://beechwoodswimclub.membersplash.com/">Member's Splash account</a>.
+<div class="tab-content">Beechwood Swim Club has historically been open from Memorial Day Weekend until Labor Day. Membership dues for the 2026 season are due by April 15th. A $150 late fee will be required for membership dues not paid by April 15th. Membership dues can be paid through the <a href="https://beechwoodswimclub.membersplash.com/">Member's Splash account</a>.
 
 Specific dates and times for check dropoff will be included in the member letter and posted on our social media and webpage.</div>
 </div>
@@ -65,7 +65,7 @@ Specific dates and times for check dropoff will be included in the member letter
 
 <div class="tab">
 <input type="radio" id="faq9" name="rd"><label class="tab-label" for="faq9">As a member, who can I contact with issues or suggestions?</label>
-<div class="tab-content">We are a member-owned swim club and, thus, the satisfaction of our members is extremely important. For daily issues, management is available to assist you. The head manager for the 2025 season is Jennifer, who can be contacted through the front office. For broader issues or suggestions regarding swim club policy and operations, the board of directors is here to listen and provide answers. For this season, the board of directors is:
+<div class="tab-content">We are a member-owned swim club and, thus, the satisfaction of our members is extremely important. For daily issues, management is available to assist you. The head manager for the 2026 season is Jennifer, who can be contacted through the front office. For broader issues or suggestions regarding swim club policy and operations, the board of directors is here to listen and provide answers. For this season, the board of directors is:
 
 * Stephanie Bogenschutz – President
 * John Piccirillo – Vice President
@@ -80,7 +80,7 @@ The most convenient way to bring any issues to the board of directors is to send
 </div>
 
 <!-- <div class="tab">
-<input type="radio" id="faq10" name="rd"><label class="tab-label" for="faq10">How do I reserve time slots during the 2025 season?</label>
-<div class="tab-content">At this time, the board does not know if weekend reservations will be required for 2025. If necessary, the pool will implement the same reservation system that was used in 2020.  The link to the weekend reservation site is . Similar to last year, the reservation window for the following weekend will open each Monday at midnight. Please see the step-by-step instructions in the following link.</div>
+<input type="radio" id="faq10" name="rd"><label class="tab-label" for="faq10">How do I reserve time slots during the 2026 season?</label>
+<div class="tab-content">At this time, the board does not know if weekend reservations will be required for 2026. If necessary, the pool will implement the same reservation system that was used in 2020.  The link to the weekend reservation site is . Similar to last year, the reservation window for the following weekend will open each Monday at midnight. Please see the step-by-step instructions in the following link.</div>
 </div> -->
 </div>

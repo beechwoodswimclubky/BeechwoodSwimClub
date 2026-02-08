@@ -10,7 +10,7 @@ permalink: /membership/index.html
  
 ## Hello Members!
 
-2025 Beechwood Swim Club Board of Directors
+2026 Beechwood Swim Club Board of Directors
 
 * Stephanie Bogenschutz Josh Colvin – President
 * John Piccirillo – Vice President
@@ -21,16 +21,16 @@ permalink: /membership/index.html
 * Josh Colvin – Director
 
 <p style="font-weight: bold; text-decoration: underline;">News from the Board of Directors</p>
-<p>Summer is just around the corner and we are starting our pre-season work. We cannot wait for the 2025 pool season to get here!</p>
+<p>Summer is just around the corner and we are starting our pre-season work. We cannot wait for the 2026 pool season to get here!</p>
  
 <p>The Board of Directors would like to welcome our newest Board Member: Stephanie Eby. Stephanie has been a life long member and is so excited to serve in her role on the board. We would also like to thank Barb Erardii for all 11 years on the board.  We appreciate all she has done for us.</p>
 
 <p>Last year the pool had significant unexpected repairs to our pool pumps. This forced us to have to close for a few days. We are thankful to the surrounding clubs for welcoming our members to their clubs without hesitation. We appreciate everyone’s flexibility and understanding during this time.</p>
 
-<p>Over the past several years, we have made significant investments to maintain the pool, deck, and facilities. For 2025, the Board has committed to continuing to make improvements to the Club.  Our main focus is the pool and the pump room. We will continue to make investments that will help our pool last for years to come. You may have heard of other pools starting to see issues with their pool and older equipment. We have taken pride in our proactive approach to prevent major issues. The pump breaking last year was the first major repair we have encountered in many years. We feel confident with the proactive repairs we have made over the winter season, that we are set for a successful summer.</p>
+<p>Over the past several years, we have made significant investments to maintain the pool, deck, and facilities. For 2026, the Board has committed to continuing to make improvements to the Club.  Our main focus is the pool and the pump room. We will continue to make investments that will help our pool last for years to come. You may have heard of other pools starting to see issues with their pool and older equipment. We have taken pride in our proactive approach to prevent major issues. The pump breaking last year was the first major repair we have encountered in many years. We feel confident with the proactive repairs we have made over the winter season, that we are set for a successful summer.</p>
  
-<p style="font-weight: bold;">2025 Membership Dues</p>
-<p>The 2025 dues below includes the taxes:</p>
+<p style="font-weight: bold;">2026 Membership Dues</p>
+<p>The 2026 dues below includes the taxes:</p>
 <ul>
     <li>
         <p style="font-weight: bold;">Family - $530</p>
@@ -68,34 +68,34 @@ permalink: /membership/index.html
 <p style="font-weight: bold;">Making payments through Member Splash will be available starting on February 22nd.</p>
 
 <p style="font-weight: bold; text-decoration: underline;">Payment Deadlines</p>
-<p>The deadlines for payment of 2025 dues are as follows:</p>
+<p>The deadlines for payment of 2026 dues are as follows:</p>
 
 <ul>
     <li>
-        <p style="font-weight: bold; text-decoration: underline;">March 15th, 2025</p>
+        <p style="font-weight: bold; text-decoration: underline;">March 15th, 2026</p>
         <ul>
             <li>Members who pay on or before this date will receive five (5) free guest passes added to their account.</li>
         </ul>
     </li>
     <li>
-        <p style="font-weight: bold; text-decoration: underline;">April 15th, 2025</p>
+        <p style="font-weight: bold; text-decoration: underline;">April 15th, 2026</p>
         <ul>
             <li>Members must pay on or before this date to avoid being assessed a late fee.</li>
         </ul>
     </li>
     <li>
-        <p><strong>For payments after April 15th, 2025, there will be a late fee assessed of $150.00</strong>. For accounts subject to a late fee, the account will not be active until the late fee has been paid.</p>
+        <p><strong>For payments after April 15th, 2026, there will be a late fee assessed of $150.00</strong>. For accounts subject to a late fee, the account will not be active until the late fee has been paid.</p>
     </li>
 </ul>
  
 <p style="font-weight: bold; text-decoration: underline;">Inactive Membership Option</p>
-<p>Due to the ongoing spike in membership interest, it is important that we know how many members plan to be inactive in the 2025 season.</p>
+<p>Due to the ongoing spike in membership interest, it is important that we know how many members plan to be inactive in the 2026 season.</p>
 
 <ul>
-    <li>Members who wish to be inactive must notify the board in writing by May 15th, 2025. The inactive fee will be $350.</li>
-    <li>The inactive fee must be paid by June 15th, 2025, to keep the account in good standing.</li>
+    <li>Members who wish to be inactive must notify the board in writing by May 15th, 2026. The inactive fee will be $350.</li>
+    <li>The inactive fee must be paid by June 15th, 2026, to keep the account in good standing.</li>
     <li>Failure to notify the board of an intent to be inactive will subject you to the full membership dues for the season.</li>
-    <li>Failure to pay the inactive fee by June 15th, 2025, will result in the club purchasing your bond from you at the original bond value. There is no exception to this.</li>
+    <li>Failure to pay the inactive fee by June 15th, 2026, will result in the club purchasing your bond from you at the original bond value. There is no exception to this.</li>
 </ul>
  
 <p style="font-weight: bold; text-decoration: underline;">New Members – Bond Transfers</p>
@@ -107,14 +107,15 @@ permalink: /membership/index.html
 </ul>
  
 <p style="font-weight: bold; text-decoration: underline;">Member Communication Throughout the Season</p>
-<p>As we head into the 2025 season, we are continuing our commitment to provide the most widespread information to our members as possible, so that everyone feels up to speed on what is happening. Issues in the past with emails have led us to try to post updates across multiple platforms including email, our pool website, and our pool Facebook page. Major items, such as our bylaws and this year’s member letter, will always be posted to our website. Please regularly check your email, our website, and our Facebook page so that you can stay informed of all events happening at the pool.</p> 
+<p>As we head into the 2026 season, we are continuing our commitment to provide the most widespread information to our members as possible, so that everyone feels up to speed on what is happening. Issues in the past with emails have led us to try to post updates across multiple platforms including email, our pool website, and our pool Facebook page. Major items, such as our bylaws and this year’s member letter, will always be posted to our website. Please regularly check your email, our website, and our Facebook page so that you can stay informed of all events happening at the pool.</p> 
  
 <p style="font-weight: bold; text-decoration: underline;">Important Dates/Events at Beechwood Swim Club</p>
 <ul>
-    <li>May 24th - Opening Day 11 a.m.</li>
+    <li>TBD</li>
+    <!--<li>May 24th - Opening Day 11 a.m.</li>
     <li>July 20th - Family Day and Annual Bondholders Meeting.</li>
     <li>
-        <p>July 22nd - Beechwood is hosting the 2025 Northern Kentucky Dive Championship Meet.</p>
+        <p>July 22nd - Beechwood is hosting the 2026 Northern Kentucky Dive Championship Meet.</p>
         <ul>
             <li>During the days the pool is closed for the swim meet, members will be allowed to go to other NKSL pools.</li>
             <li>Additional information will be shared as we get closer to the pool season.</li>
@@ -126,7 +127,7 @@ permalink: /membership/index.html
     <li>Bunco: Monday, June 2nd through August 25th 6:30-7:30 p.m.</li>
     <li>Euchre: Sunday, June 8th, July 13th, September 10th 5-7 p.m.</li>
     <li>BINGO: Friday, July 13th, July 18th, August 15th 6:30-7:30 p.m.</li>
-    <li>Trivia: Wednesday, June 30th, July 19th, July 23rd, August 1st 6:30-7:30 p.m.</li>
+    <li>Trivia: Wednesday, June 30th, July 19th, July 23rd, August 1st 6:30-7:30 p.m.</li>-->
 </ul>
  
 <p>Job Fair</p>
