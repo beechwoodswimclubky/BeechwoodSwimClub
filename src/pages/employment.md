@@ -7,10 +7,9 @@ If you're interested in applying for a position, please email us at [beechwoodsw
 
 We are currently hiring for the following positions:
 
-* **Concession stand**
-* **Concession stand cook**
+* **Concessions Crew**
+* **Concessions Cooks**
 * **Front Desk**
 * **Lifeguard**
-* **Maintenance**
-* **Manager** 
+* **Deck Team** 
 * **Assistant Manager**
