@@ -3,7 +3,7 @@ layout: layouts/page.njk
 title: Events
 permalink: /events/index.html
 ---
-## Important dates for 2025 Pool Season
+## Important dates for 2026 Pool Season
 * Bunco: Monday, June 2nd through August 25th 6:30-7:30 p.m.
 * Trivia: Wednesday, June 30th, July 19th, July 23rd, August 1st 6:30-7:30 p.m.
 * Euchre: Sunday, June 8th, July 18th and September 10th 5-7 p.m.
