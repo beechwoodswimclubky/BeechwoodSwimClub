@@ -11,7 +11,7 @@ permalink: /contact/index.html
 
 **Email Address**
 
-<a href="mailto:beecwhoodswimclubky@gmail.com">beecwhoodswimclubky@gmail.com</a>
+<a href="mailto:beechwoodswimclubky@gmail.com">beechwoodswimclubky@gmail.com</a>
 
 **Phone Number**
 
